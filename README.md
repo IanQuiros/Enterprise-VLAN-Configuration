@@ -48,24 +48,6 @@ Simular una red empresarial separando departamentos en diferentes VLANs para mej
 * Connectivity testing
 * Troubleshooting
 
-## Capturas
-
-### Topología
-
-![Topología](topology.png)
-
-### VLANs Configuradas
-
-![VLAN Configuration](vlan-config.png)
-
-### Ping Exitoso
-
-![Successful Ping](successful-ping.png)
-
-### Comunicación Bloqueada entre VLANs
-
-![Blocked Communication](blocked-ping.png)
-
 ## Estado del proyecto
 
 Finalizado y funcional.
